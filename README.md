@@ -6,7 +6,7 @@ Este projeto tem como objetivo explorar o uso da Inteligência Artificial como f
 ---
 
 ## 📚 Fontes utilizadas  
-FONTES (VIDEO): (DE VERDADE)
+FONTES (VIDEO): 
 1. https://www.youtube.com/watch?v=jQMbuK6URws&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S
 2. https://www.youtube.com/watch?v=xUarb_lxPUc&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=2
 3. https://www.youtube.com/watch?v=J7ABOxu1sdw&list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S&index=3
@@ -20,7 +20,7 @@ FONTES (VIDEO): (DE VERDADE)
 ---- 
 
 📄 Conteúdos em texto:
-FONTES (TEXTO): (DE CVERDADE)
+FONTES (TEXTO):
 1. https://adapta.org/blog/inteligencia-artificial-o-que-e-e-como-funciona?utm_source=Google_Ads&utm_medium=Paid+g&utm_term=++dsa-41848713900&utm_content=183327031415+766002956077&utm_campaign=22835614730&hsa_acc=8669612198&hsa_cam=22835614730&hsa_grp=183327031415&hsa_ad=766002956077&hsa_src=g&hsa_tgt=dsa-41848713900&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22835614730&gbraid=0AAAAAqJFJh4peeR-kbrGncqbKMu3u3nG0&gclid=CjwKCAjwwdbPBhBgEiwAxBRA4WWAtt4LJHtHNF0yCsHxZeoIDNy716BvZdxN04EM08eYaBXXDPmckhoCAqcQAvD_BwE
 2. https://www.softdesign.com.br/blog/softdrops-sobre-modelos-de-inteligencia-artificial/
 3. https://www.ibm.com/br-pt/solutions/ai-cybersecurity?utm_content=SRCWW&p1=Search&p4=1532057602784&p5=p&p9=189805163202&gclsrc=aw.ds&gad_source=1&gad_campaignid=21980439765&gbraid=0AAAAAD-_QsQl8QXZLnF_Aw-CxyaG5HXMX&gclid=CjwKCAjwwdbPBhBgEiwAxBRA4Qs5qJ30a94MK9vF6HsZ-7Z_1ke8hUCoZk6twkM5L6a3UOC4XJV6vRoCNSQQAvD_BwE
